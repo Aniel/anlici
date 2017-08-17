@@ -1,0 +1,113 @@
+{
+	"name": "Anlici",
+	"type": "dark",
+	"colors": {
+		"focusBorder": "#14171B",
+		"contrastBorder": "#1B2025",
+		"sideBar.background": "#1D2127",
+		"foreground": "#D3D7DC",
+		"errorForeground": "#DF6C75",
+		"widget.shadow": "#1B2025",
+		"editor.background": "#272c33",
+		"editor.foreground": "#D3D7DC",
+		"activityBarBadge.background": "#61AFEF",
+		"sideBarTitle.foreground": "#D3D7DC",
+		"activityBar.background": "#13151A",
+		"tab.inactiveBackground": "#303740",
+		"tab.activeBackground": "#242930",
+		"list.activeSelectionBackground": "#272c33",
+		"list.inactiveSelectionBackground": "#272c33",
+		"list.hoverBackground": "#272c33",
+		"sideBarSectionHeader.background": "#272c33"
+	},
+	"tokenColors": [
+		{
+			"settings": {
+				"foreground": "#D3D7DC",
+				"background": "#272c33"
+			}
+		},
+		{
+			"name": "Plain",
+			"scope": [
+				"entity.name.variable",
+				"variable"
+			],
+			"settings": {
+				"foreground": "#D3D7DC"
+			}
+		},
+		{
+			"name": "Yellow",
+			"scope": [
+				"entity.name.function",
+				"support.type.property-name",
+				"meta.type",
+				"entity.other",
+				"markup.heading",
+				"beginning.punctuation"
+			],
+			"settings": {
+				"foreground": "#e4c07a"
+			}
+		},
+		{
+			"name": "Blue",
+			"scope": [
+				"storage.modifier",
+				"keyword",
+				"storage.type.class",
+				"meta.tag",
+				"support.type.property-name.css"
+			],
+			"settings": {
+				"foreground": "#61AFEF"
+			}
+		},
+		{
+			"name": "Green",
+			"scope": [
+				"storage",
+				"entity.name",
+				"variable.other.object.cs"
+			],
+			"settings": {
+				"foreground": "#98C379"
+			}
+		},
+		{
+			"name": "Red",
+			"scope": [
+				"comment",
+				"keyword.operator",
+				"markup.inline.raw",
+				"variable.scss"
+			],
+			"settings": {
+				"foreground": "#DF6C75"
+			}
+		},
+		{
+			"name": "Magenta",
+			"scope": [
+				"keyword.control",
+				"constant.language",
+				"meta.link",
+				"support.function"
+			],
+			"settings": {
+				"foreground": "#C577DD"
+			}
+		},
+		{
+			"name": "Cyan",
+			"scope": [
+				"string",
+				"constant"
+			],
+			"settings": {
+				"foreground": "#5DB8C4"
+			}
+		}
+	]
+}
