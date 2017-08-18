@@ -18,7 +18,11 @@
 		"list.activeSelectionBackground": "#272c33",
 		"list.inactiveSelectionBackground": "#272c33",
 		"list.hoverBackground": "#272c33",
-		"sideBarSectionHeader.background": "#272c33"
+		"sideBarSectionHeader.background": "#272c33",
+		"statusBar.background": "#13151A",
+		"statusBar.foreground": "#D3D7DC",
+		"statusBar.debuggingBackground": "#DF6C75",
+		"input.background": "#272c33"
 	},
 	"tokenColors": [
 		{
