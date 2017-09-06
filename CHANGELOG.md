@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.0.3
+- Add propper PHP `new className()` coloring
+
 ## 0.0.2
 - Theme status bar
 - Theme input background
