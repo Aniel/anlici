@@ -73,7 +73,8 @@
 			"scope": [
 				"storage",
 				"entity.name",
-				"variable.other.object.cs"
+				"variable.other.object.cs",
+				"support.class"
 			],
 			"settings": {
 				"foreground": "#98C379"
