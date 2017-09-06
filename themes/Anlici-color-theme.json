@@ -98,7 +98,8 @@
 				"keyword.control",
 				"constant.language",
 				"meta.link",
-				"support.function"
+				"support.function",
+				"entity.name.goto-label"
 			],
 			"settings": {
 				"foreground": "#C577DD"
