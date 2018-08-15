@@ -29,17 +29,8 @@
 	},
 	"tokenColors": [
 		{
-			"settings": {
-				"foreground": "#D3D7DC",
-				"background": "#272c33"
-			}
-		},
-		{
 			"name": "Plain",
-			"scope": [
-				"entity.name.variable",
-				"variable"
-			],
+			"scope": ["entity.name.variable", "variable"],
 			"settings": {
 				"foreground": "#D3D7DC"
 			}
@@ -60,60 +51,35 @@
 		},
 		{
 			"name": "Blue",
-			"scope": [
-				"storage.modifier",
-				"keyword",
-				"storage.type.class",
-				"meta.tag",
-				"support.type.property-name.css"
-			],
+			"scope": ["storage.modifier", "keyword", "storage.type.class", "meta.tag", "support.type.property-name.css"],
 			"settings": {
 				"foreground": "#61AFEF"
 			}
 		},
 		{
 			"name": "Green",
-			"scope": [
-				"storage",
-				"entity.name",
-				"variable.other.object.cs",
-				"support.class"
-			],
+			"scope": ["storage", "entity.name", "variable.other.object.cs", "support.class"],
 			"settings": {
 				"foreground": "#98C379"
 			}
 		},
 		{
 			"name": "Red",
-			"scope": [
-				"comment",
-				"keyword.operator",
-				"markup.inline.raw",
-				"variable.scss"
-			],
+			"scope": ["comment", "keyword.operator", "markup.inline.raw", "variable.scss"],
 			"settings": {
 				"foreground": "#DF6C75"
 			}
 		},
 		{
 			"name": "Magenta",
-			"scope": [
-				"keyword.control",
-				"constant.language",
-				"meta.link",
-				"support.function",
-				"entity.name.goto-label"
-			],
+			"scope": ["keyword.control", "constant.language", "meta.link", "support.function", "entity.name.goto-label"],
 			"settings": {
 				"foreground": "#C577DD"
 			}
 		},
 		{
 			"name": "Cyan",
-			"scope": [
-				"string",
-				"constant"
-			],
+			"scope": ["string", "constant"],
 			"settings": {
 				"foreground": "#5DB8C4"
 			}
