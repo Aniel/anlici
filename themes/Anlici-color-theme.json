@@ -22,7 +22,10 @@
 		"statusBar.background": "#13151A",
 		"statusBar.foreground": "#D3D7DC",
 		"statusBar.debuggingBackground": "#DF6C75",
-		"input.background": "#272c33"
+		"input.background": "#272c33",
+		"titleBar.activeBackground": "#13151A",
+		"titleBar.inactiveBackground": "#0e0f13",
+		"editorGroupHeader.tabsBackground": "#1D2127"
 	},
 	"tokenColors": [
 		{

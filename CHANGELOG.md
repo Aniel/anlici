@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.0.4
+- Add support for new [custom titlebar](https://code.visualstudio.com/updates/v1_26#_custom-title-bar-and-menus-for-windowslinux)
+
 ## 0.0.3
 - Add propper PHP `new className()` coloring
 - Fix php `switch`s `default` color
