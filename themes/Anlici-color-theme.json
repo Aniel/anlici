@@ -25,7 +25,8 @@
 		"input.background": "#272c33",
 		"titleBar.activeBackground": "#13151A",
 		"titleBar.inactiveBackground": "#0e0f13",
-		"editorGroupHeader.tabsBackground": "#1D2127"
+		"editorGroupHeader.tabsBackground": "#1D2127",
+		"menu.background": "#2f333c"
 	},
 	"tokenColors": [
 		{
