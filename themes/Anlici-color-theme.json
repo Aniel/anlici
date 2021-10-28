@@ -26,7 +26,9 @@
 		"titleBar.activeBackground": "#13151A",
 		"titleBar.inactiveBackground": "#0e0f13",
 		"editorGroupHeader.tabsBackground": "#1D2127",
-		"menu.background": "#2f333c"
+		"menu.foreground": "#D3D7DC",
+        	"menu.background": "#30343a",
+        	"menu.selectionBackground": "#434a54"
 	},
 	"tokenColors": [
 		{
