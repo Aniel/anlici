@@ -1,14 +1,14 @@
 {
-    "name": "anlici",
-    "displayName": "Anlici",
-    "description": "Anlici is a dark and warm color theme",
-    "version": "0.0.4",
-    "publisher": "aniel",
+    "name": "anlici-plus",
+    "displayName": "Anlici-Plus",
+    "description": "Anlici-Plus is a dark and warm color theme",
+    "version": "0.0.5",
+    "publisher": "nihiue",
     "license": "MIT",
     "icon": "img/icon.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Aniel/anlici"
+        "url": "https://github.com/Nihiue/anlici"
     },
     "engines": {
         "vscode": "^1.15.0"
@@ -19,7 +19,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Anlici",
+                "label": "Anlici-Plus",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Anlici-color-theme.json"
             }
