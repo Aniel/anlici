@@ -1,5 +1,5 @@
 {
-	"name": "Anlici",
+	"name": "Anlici-Plus",
 	"type": "dark",
 	"colors": {
 		"focusBorder": "#14171B",
@@ -25,7 +25,10 @@
 		"input.background": "#272c33",
 		"titleBar.activeBackground": "#13151A",
 		"titleBar.inactiveBackground": "#0e0f13",
-		"editorGroupHeader.tabsBackground": "#1D2127"
+		"editorGroupHeader.tabsBackground": "#1D2127",
+		"menu.foreground": "#D3D7DC",
+        	"menu.background": "#30343a",
+        	"menu.selectionBackground": "#434a54"
 	},
 	"tokenColors": [
 		{
